@@ -4,7 +4,7 @@
 
 Using LQR controller to allow robot follow the center of the lane while keeping the inverse pendulum body balanced. The lane is generated randomly each time.
 
-##### Screenshot
+### Screenshot
 ![Screenshot](ae353.PNG)
 
 ### The final report of this project: 
